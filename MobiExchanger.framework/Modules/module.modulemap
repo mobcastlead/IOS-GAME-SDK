@@ -1,0 +1,6 @@
+framework module MobiExchanger {
+  umbrella header "MobiExchanger.h"
+
+  export *
+  module * { export * }
+}
